@@ -85,7 +85,7 @@ As a Chevening Scholar and professional mentor, I'm passionate about knowledge-s
 ### Earlier roles:
 
 - **Library Supervisor**, University of Warwick · *March 2023 – October 2023*
--  · Supervised library operations serving 10,000+ students and staff
+-   Supervised library operations serving 10,000+ students and staff
 - **IT Support Engineer**, Fashtech Computers Ltd · *January 2015 – January 2021* · Nairobi, Kenya
 -  Infrastructure, endpoint security (Sophos, McAfee, Defender), networking, VPN/firewall/proxy management, and server backups on Windows Server and VMware.
 ---
