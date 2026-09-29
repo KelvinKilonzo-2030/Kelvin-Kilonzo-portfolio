@@ -40,7 +40,7 @@ As a Chevening Scholar and professional mentor, I'm passionate about knowledge-s
 - **Lead high-performing Security Operations Center (SOC) teams:**, Architect defence frameworks, and orchestrate rapid incident response to safeguard critical enterprise assets.
 - **Incident response & crisis management:** Primary escalation point for severe incidents, directing containment, eradication, and post-incident digital forensics
 - **Team leadership & mentorship:** Oversee daily SOC workflows, establish SLAs, engineer response playbooks, and mentor junior analysts
-- **Threat hunting & vulnerability management:**Hhunt for anomalies across network, endpoint, and cloud; coordinate penetration testing; turn risk data into prioritised remediation paths.
+- **Threat hunting & vulnerability management:** Hunt for anomalies across network, endpoint, and cloud; coordinate penetration testing; turn risk data into prioritised remediation paths.
 - **Strategy & security architecture:** Evaluate and deploy SIEM, EDR, XDR, and AI-driven security layers; author governance policies aligned with GDPR, HIPAA, PCI DSS, and DPA.
 - **Executive communication:** Translate technical risk and threat metrics into clear business insight for leadership and board members
 
