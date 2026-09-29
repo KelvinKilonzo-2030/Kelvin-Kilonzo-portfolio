@@ -54,15 +54,24 @@ As a Chevening Scholar and professional mentor, I'm passionate about knowledge-s
 ### Infrastructure Security Engineer
 **NHS England (RJAH NHS Trust)** · *November 2023 – November 2025* · Shropshire, UK
 
-- Protected healthcare systems and strengthened resilience by bridging technical implementation, risk management, and stakeholder collaboration
-- Secured on-premises and cloud devices using encryption, access controls, ClearPass, Cisco VPNs, and VMware Horizon
-- Reduced vulnerability exposure scores below 20% through targeted scans (Nessus, Rapid7, MDE) and remediation
-- Improved incident response by fine-tuning detection and correlating IoCs
-- Ran audits aligned with PCI DSS, CIS, and COBIT
-- Automated security operations with PowerShell, Python, Ansible, KQL, and Bash
-- Delivered cybersecurity awareness training, malware analysis, and IoC development
-- Deployed and maintained Wi-Fi infrastructure with Cambium Cloud, Nutanix Cloud, and Ekahau Sidekick
-- Conducted infrastructure penetration tests with technical and executive reports
+▪ Designed and implemented enterprise-wide endpoint security architecture supporting 
+6,000+ assets, integrating XDR and SIEM solutions for scalable threat detection.
+▪ Architected secure access and data protection models using network segmentation, 
+encryption, and identity controls across hybrid infrastructure. 
+▪ Designed vulnerability management framework leveraging Nessus and Rapid7, prioritising 
+risk-based remediation and reducing enterprise exposure below 20%. 
+▪ Led internal and external audits aligned with PCI DSS, COBIT, and CIS, identifying key risks and 
+strengthening enterprise security compliance. 
+▪ Improved incident response by correlating IoCs and threat intelligence, refining detection rules 
+and developing documentation to support faster incident containment. 
+▪ Applied NIST CSF, SOC 2, and MITRE ATT&CK frameworks to enhance monitoring, compliance, 
+and protection of critical infrastructure systems. 
+▪ Automated security operations using PowerShell, Python, Bash, KQL, and JavaScript, reducing 
+manual SOC tasks and improving response efficiency. 
+▪ Delivered cybersecurity training and crisis simulations to 2000+ staff, while conducting 
+research on emerging threats to strengthen organisational threat detection.
+
+
 
 ### Cyber Security Consultant
 **Node Africa Limited** · *September 2022 – July 2023* · Nairobi, Kenya
