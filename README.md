@@ -53,30 +53,14 @@ As a Chevening Scholar and professional mentor, I'm passionate about knowledge-s
 
 ### Infrastructure Security Engineer
 **NHS England (RJAH NHS Trust)** · *November 2023 – November 2025* · Shropshire, UK
-
-▪ Designed and implemented enterprise-wide endpoint security architecture supporting 
-6,000+ assets, integrating XDR and SIEM solutions for scalable threat detection.
-
-▪ Architected secure access and data protection models using network segmentation, 
-encryption, and identity controls across hybrid infrastructure. 
-
-▪ Designed vulnerability management framework leveraging Nessus and Rapid7, prioritising 
-risk-based remediation and reducing enterprise exposure below 20%. 
-
-▪ Led internal and external audits aligned with PCI DSS, COBIT, and CIS, identifying key risks and 
-strengthening enterprise security compliance. 
-
-▪ Improved incident response by correlating IoCs and threat intelligence, refining detection rules 
-and developing documentation to support faster incident containment.
-
-▪ Applied NIST CSF, SOC 2, and MITRE ATT&CK frameworks to enhance monitoring, compliance, 
-and protection of critical infrastructure systems. 
-
-▪ Automated security operations using PowerShell, Python, Bash, KQL, and JavaScript, reducing 
-manual SOC tasks and improving response efficiency. 
-
-▪ Delivered cybersecurity training and crisis simulations to 2000+ staff, while conducting 
-research on emerging threats to strengthen organisational threat detection.
+- Designed and implemented enterprise-wide endpoint security architecture supporting 6,000+ assets, integrating XDR and SIEM solutions for scalable threat detection
+- Architected secure access and data protection models using network segmentation, encryption, and identity controls across hybrid infrastructure
+- Designed vulnerability management framework leveraging Nessus and Rapid7, prioritising risk-based remediation and reducing enterprise exposure below 20%
+- Led internal and external audits aligned with PCI DSS, COBIT, and CIS, identifying key risks and strengthening enterprise security compliance
+- Improved incident response by correlating IoCs and threat intelligence, refining detection rules and developing documentation to support faster incident containment
+- Applied NIST CSF, SOC 2, and MITRE ATT&CK frameworks to enhance monitoring, compliance, and protection of critical infrastructure systems
+- Automated security operations using PowerShell, Python, Bash, KQL, and JavaScript, reducing manual SOC tasks and improving response efficiency
+- Delivered cybersecurity training and crisis simulations to 2000+ staff, while conducting research on emerging threats to strengthen organisational threat detection
 
 
 
