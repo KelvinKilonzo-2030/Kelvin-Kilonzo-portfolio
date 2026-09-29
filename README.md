@@ -105,10 +105,11 @@ Microsoft Sentinel
 · Defender for Cloud 
 · XDR / EDR platforms 
 · Sophos
-. FortClient EMS, FortSIEM, FortAnalyzer
+. FortClient EMS
+. FortSIEM 
+. FortAnalyzer
 . ManageEngine SIEM
 · AWS GuardDuty & Security Hub
-
 
 **Cloud Security**
 . Microsoft Azure
